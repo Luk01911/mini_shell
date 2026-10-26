@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Mini Shell (`mini_shell`)
 
 A lightweight, modular POSIX-compliant Unix command shell written from scratch in **C99**. Built to master low-level operating system architecture, process lifecycle management, and systems programming fundamentals on Linux.
